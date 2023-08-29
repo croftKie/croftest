@@ -1,0 +1,12 @@
+{
+  "name": "croftest",
+  "version": "1.0.0",
+  "description": "In-browser Testing Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
